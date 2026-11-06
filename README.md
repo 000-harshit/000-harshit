@@ -1,5 +1,5 @@
-                          Hi, I'm Harshit Pandey 👋
-              ☁️ Cloud Computing | AWS | DevOps | Cloud Security
+                                 # Hi, I'm Harshit Pandey 👋
+                  #☁️ Cloud Computing | AWS | DevOps | Cloud Security
 
 I'm a Computer Science Engineering student specializing in AI, passionate about building secure, scalable, and reliable cloud infrastructure.
 
@@ -21,11 +21,6 @@ I'm a Computer Science Engineering student specializing in AI, passionate about 
 
 **Tools:** AWS CLI, LocalStack, VS Code
 
-### 🚀 Featured Project
-
-**AWS Automated Security Detection & Response**
-
-Building a security event detection and alerting pipeline using SQS, SNS, EventBridge, Python, Docker, and LocalStack.
 
 ### 📫 Connect With Me
 
