@@ -1,5 +1,5 @@
-#                          Hi, I'm Harshit Pandey 👋
-#              ☁️ Cloud Computing | AWS | DevOps | Cloud Security
+                          Hi, I'm Harshit Pandey 👋
+              ☁️ Cloud Computing | AWS | DevOps | Cloud Security
 
 I'm a Computer Science Engineering student specializing in AI, passionate about building secure, scalable, and reliable cloud infrastructure.
 
